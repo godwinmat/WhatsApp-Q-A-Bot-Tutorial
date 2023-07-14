@@ -1,0 +1,23 @@
+{
+  "name": "Whatsapp Q&A Bot Tutorial",
+  "version": "1.0.0",
+  "description": "A Tutorial to learn how to create a Whatsapp Q&A Bot.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2",
+    "signale": "^1.4.0",
+    "unirest": "^0.6.0",
+    "whatsappcloudapi_wrapper": "^1.0.13"
+  }
+}
